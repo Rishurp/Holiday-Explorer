@@ -1,0 +1,28 @@
+.holiday_section{
+    display: flex;
+    justify-content: center;
+}
+select{
+   padding: 10px 80px;
+   background-color: rgb(241, 208, 213);
+    border: 1px solid rgb(186, 175, 175);
+    border-radius: 5px;
+    box-shadow :rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    cursor:pointer;
+    color: rgba(40, 41, 42, 0.91);
+    overflow-y:auto;
+}
+
+select option {
+    background-color:white;
+}
+
+.fetchButton {
+    margin-left: 10px;
+    background-color: rgb(241, 208, 213);
+    border-radius: 5px;
+    border: 1px solid rgb(241, 208, 213);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   cursor: pointer;
+  color: rgba(40, 41, 42, 0.91)
+}
