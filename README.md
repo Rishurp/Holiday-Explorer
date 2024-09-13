@@ -1,4 +1,4 @@
-# Holiday Cards Web App
+# Holiday-Explorer Web App
 
 A simple web application built with React and TypeScript that displays holiday cards when a user selects a city from a dropdown menu. This project allows users to easily explore holidays specific to their chosen city.
 
